@@ -1,16 +1,41 @@
-# pr2_animator_app
+<h1 align="center"> Hi 👋, I'm Hardik Gediya!</a></h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
-A new Flutter project.
 
-## Getting Started
+- 🔭 &ensp;I’m currently working as **Flutter Developer**
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- ⚡ &ensp;Fun fact: I love reading & podcasts
 
-This project is a starting point for a Flutter application.
+----------------------------------------------------------------------
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="center">Treva Galaxy</a></h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Galaxy is here...🌌🌌🌌🌌**
+
+Home Screen         | 
+:-------------------------:|
+![s1](https://user-images.githubusercontent.com/77672442/172057583-66e9ca04-f091-45f1-a938-12049c75142c.jpg)
+
+
+Details Screen       | 
+:-------------------------:|
+![s2](https://user-images.githubusercontent.com/77672442/172057577-a62997af-5248-4dc8-ab4b-ce19f18fafdf.jpg)
+
+
+Details Bottom Sheet        | 
+:-------------------------:|
+![s3](https://user-images.githubusercontent.com/77672442/172057657-8967398c-cbb8-47c7-8269-50725a2965c3.jpg)
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+
+
